@@ -1,0 +1,12 @@
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.env
+*.key
+*.pem
+*.db
+*.sqlite
+auth_info_*/
+node_modules/
+__pycache__/
